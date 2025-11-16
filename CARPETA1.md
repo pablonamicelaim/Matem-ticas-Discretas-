@@ -1,24 +1,24 @@
 ### 🧩 UNIDAD 1
-
+---
 En este apartado se recopilan todas las actividades realizadas durante el período de trabajo académico, además de un listado de todas las tematicas expuestas durante toda la primera unidad:
-
-#### 📘 Actividades
+---
+#### 📘 ACTVIDADES:
 
 - DEFINICIONES BÁSICAS
-• Conceptos Básicos
-• Terminología Básica
+- • Conceptos Básicos
+- • Terminología Básica
 - LÓGICA
-• Introducción a la Lógica
-• Tipos Proposiciones
+- • Introducción a la Lógica
+- • Tipos Proposiciones
 - PROPOSICIONES Y OPERADORES LÓGICOS
-• Clasificación de las Proposiciones
-• Operadores Lógicos
+- • Clasificación de las Proposiciones
+- • Operadores Lógicos
 - PROPOSICIONES CONDICIONALES
-• Condicional o implicación
-• Bicondicional o equivalencia
+- • Condicional o implicación
+- • Bicondicional o equivalencia
 - TABLAS DE VERDAD
-• Construcción de una Tabla de verdad
-• Clasificación de argumentos: tautología, contradicción y
+- • Construcción de una Tabla de verdad
+- • Clasificación de argumentos: tautología, contradicción y
 contingencia
  
 -📂 **[Actividades AA](AA.md)**
