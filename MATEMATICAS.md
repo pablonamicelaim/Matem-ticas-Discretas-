@@ -1,42 +1,36 @@
-# Matematicas Discretas
-
-## Portafolio Digital de Aprendizaje  
-
----
-
-### 🧩 Unidad 1: Fundamentos de la Programación  
-Introducción a los conceptos básicos, lógica computacional y estructura de algoritmos.  
-
-Contenidos de la Unidad
-
-🧠 Unidad: Fundamentos de Algoritmos y Programación
-
-🧩 Algoritmos, Pseudocódigo y Diagrama de Flujo
-Definición de Algoritmo
-
-[Contenidos de la Unidad](CARPETA1.md)
+# 🧮✨ Matemáticas Discretas  
+## 📘 Portafolio Digital de Aprendizaje  
 
 ---
 
-### ⚙️ Unidad 2: Lenguajes y Paradigmas  
-Exploración de distintos lenguajes y enfoques en la resolución de problemas computacionales.  
+## 🧩 Unidad 1: Lógica Matemática  
+Desarrolla habilidades de **razonamiento lógico**, análisis de proposiciones y construcción de argumentos formales.  
+Favorece el pensamiento crítico para solucionar problemas de ingeniería bajo los valores de **solidaridad 🤝, transparencia 🔍, responsabilidad 📘 y honestidad 🧭**.
+
+➡️ 📂 [Contenidos de la Unidad 1](CARPETA1.md)
 
 ---
 
-### 🧠 Unidad 3: Aplicaciones Prácticas  
-Desarrollo de proyectos, análisis de código y solución de problemas reales.  
+## ⚙️💡 Unidad 2: Álgebra Booleana  
+Aplica de manera eficiente los principios de la **lógica matemática y el álgebra booleana** para modelar circuitos, simplificar expresiones y comprender sistemas digitales.  
+Su desarrollo se basa en los valores de **solidaridad 🤝, transparencia 🔍, responsabilidad 📘 y honestidad 🧭**.
+
+➡️ 📂 Contenidos disponibles próximamente…
 
 ---
 
-### 🧾 Conclusiones  
-Reflexión sobre la importancia de la programación como herramienta para la innovación y el pensamiento lógico.  
+## 🧠🌳 Unidad 3: Grafos y Árboles  
+Comprende y utiliza los conceptos de **grafos, árboles, caminos y redes**, aplicándolos en situaciones reales como comunicaciones, rutas, conexiones y relaciones.  
+Se sustenta en los principios de **solidaridad 🤝, transparencia 🔍, responsabilidad 📘 y honestidad 🧭**.
+
+➡️ 📂 Contenidos disponibles próximamente…
 
 ---
 
-### 📚 Referencias  
-Fuentes teóricas, bibliografía y recursos consultados.  
+### 📚 Navegación del Portafolio  
+- 🏠 [Inicio del Portafolio](README.md)  
+- 📁 [Unidad 1](CARPETA1.md)  
+ 
 
----
 
-### 🤖 Uso de la IA Generativa  
-Aplicaciones de herramientas de inteligencia artificial (como ChatGPT) en el aprendizaje y desarrollo de proyectos. 
+
