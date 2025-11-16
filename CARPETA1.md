@@ -9,8 +9,11 @@ En este apartado se recopilan todas las actividades realizadas durante el perío
 - 🧮 **Primer acercamiento a la construcción de algoritmos:** desarrollo de estructuras secuenciales en pseudocódigo.  
 - ⚙️ **Del diseño del algoritmo a la construcción del programa:** implementación práctica de algoritmos en un lenguaje de programación.  
 
-📂 **[Link de los trabajos en Drive](https://drive.google.com/file/d/19nsx9csztbIpLwUw1W98oDOeoGyKYGYL/view?usp=sharing)**
+📂 **[Actividades AA](https://drive.google.com/file/d/1hna3KN-G-oT_wsQd6Y1m8fvsTMKroQbn/view?usp=sharing)**
+📂 **[Actividades AC1](https://drive.google.com/file/d/19nsx9csztbIpLwUw1W98oDOeoGyKYGYL/view?usp=sharing)**
+📂 **[Actividades AC2](https://drive.google.com/file/d/1fo26FwrvXHJsgb8WlJ-PRf3cpxRtcdRK/view?usp=sharing)**
+
 
 ### Navegavilidad 
-🔙 [Volver al Portafolio Principal](PortafolioUnidad1.md) 
+🔙 [Volver al Portafolio Principal](MATEMÁTICAS.md) 
 
