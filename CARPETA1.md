@@ -1,4 +1,4 @@
-### 🧩📚 UNIDAD 1
+### 📚 UNIDAD 1
 
 ---
 
@@ -43,10 +43,10 @@ En este apartado se recopilan todas las actividades realizadas durante el perío
 
 ---
 
-## 📂📁 Archivos de Actividades
-- 📄📂 [Actividades AA](AA.md)
-- 📄📂 [Actividades ACD1](ACD1.md)
-- 📄📂 [Actividades ACD2](ACD2.md)
+## 📂 Archivos de Actividades
+- 📄 [Actividades AA](AA.md)
+- 📄 [Actividades ACD1](ACD1.md)
+- 📄 [Actividades ACD2](ACD2.md)
 
 ---
 
