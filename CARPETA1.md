@@ -1,18 +1,29 @@
-### 🧩 Unidad 1
+### 🧩 UNIDAD 1
 
-En este apartado se recopilan todas las actividades realizadas durante el período de trabajo académico:
+En este apartado se recopilan todas las actividades realizadas durante el período de trabajo académico, además de un listado de todas las tematicas expuestas durante toda la primera unidad:
 
 #### 📘 Actividades
 
-- 🧠 **Herramientas de algoritmos:** uso de pseudocódigo y diagramas de flujo para representar procesos lógicos.  
-- 💻 **Instalación de lenguajes de programación:** configuración básica de C, Python o Java.  
-- 🧮 **Primer acercamiento a la construcción de algoritmos:** desarrollo de estructuras secuenciales en pseudocódigo.  
-- ⚙️ **Del diseño del algoritmo a la construcción del programa:** implementación práctica de algoritmos en un lenguaje de programación.  
-
-📂 **[Actividades AA](https://drive.google.com/file/d/1hna3KN-G-oT_wsQd6Y1m8fvsTMKroQbn/view?usp=sharing)**
-📂 **[Actividades AC1](https://drive.google.com/file/d/19nsx9csztbIpLwUw1W98oDOeoGyKYGYL/view?usp=sharing)**
-📂 **[Actividades AC2](https://drive.google.com/file/d/1fo26FwrvXHJsgb8WlJ-PRf3cpxRtcdRK/view?usp=sharing)**
-
+- DEFINICIONES BÁSICAS
+• Conceptos Básicos
+• Terminología Básica
+- LÓGICA
+• Introducción a la Lógica
+• Tipos Proposiciones
+- PROPOSICIONES Y OPERADORES LÓGICOS
+• Clasificación de las Proposiciones
+• Operadores Lógicos
+- PROPOSICIONES CONDICIONALES
+• Condicional o implicación
+• Bicondicional o equivalencia
+- TABLAS DE VERDAD
+• Construcción de una Tabla de verdad
+• Clasificación de argumentos: tautología, contradicción y
+contingencia
+ 
+-📂 **[Actividades AA](AA.md)**
+-📂 **[Actividades ACD1](ACD1.md)**
+-📂 **[Actividades ACD2](ACD2.md)**
 
 ### Navegavilidad 
 🔙 [Volver al Portafolio Principal](MATEMÁTICAS.md) 
