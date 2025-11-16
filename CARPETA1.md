@@ -52,6 +52,6 @@ En este apartado se recopilan todas las actividades realizadas durante el perío
 ---
 
 ## 🔙📌 Navegabilidad  
-[⬅️🏠 Volver al Portafolio Principal](MATEMÁTICAS.md)
+[⬅️🏠 Volver al Portafolio Principal](MATEMATICAS.md)
 
 
