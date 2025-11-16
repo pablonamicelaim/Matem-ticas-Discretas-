@@ -14,7 +14,13 @@ Contenidos de la Unidad
 🧩 Algoritmos, Pseudocódigo y Diagrama de Flujo
 Definición de Algoritmo
 
-[Contenidos de la Unidad](Unidad1.md)
+[Contenidos de la Unidad]
+
+(APE: RESOLUCION DE EJERCICIOS.md)
+(ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD.md)
+(ACD2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia).md)
+(AA. LECTURA Y EJERCICIOS.md)
+
 
 ---
 
