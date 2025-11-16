@@ -1,52 +1,56 @@
-### 🧩 UNIDAD 1
+### 🧩📚 UNIDAD 1
 
 ---
 
-En este apartado se recopilan todas las actividades realizadas durante el período de trabajo académico, además de un listado de todas las tematicas expuestas durante toda la primera unidad:
+En este apartado se recopilan todas las actividades realizadas durante el período académico, junto con una lista organizada de las temáticas abordadas durante la primera unidad.
 
 ---
 
-#### 📘 ACTVIDADES:
+## 📘📝 ACTIVIDADES
 
 ---
 
-- #### DEFINICIONES BÁSICAS
-- Conceptos Básicos
-- Terminología Básica
+### 🔹📖 DEFINICIONES BÁSICAS
+- 📌 Conceptos básicos  
+- 🧾 Terminología esencial  
 
 ---
 
-- #### LÓGICA
-- Introducción a la Lógica
-- Tipos Proposiciones
+### 🔹🧠 LÓGICA
+- 🟦 Introducción a la lógica  
+- 🔢 Tipos de proposiciones  
 
 ---
 
-- #### PROPOSICIONES Y OPERADORES LÓGICOS
-- Clasificación de las Proposiciones
-- Operadores Lógicos
+### 🔹⚙️ PROPOSICIONES Y OPERADORES LÓGICOS
+- 📊 Clasificación de las proposiciones  
+- 🔧 Operadores lógicos  
 
 ---
 
-- #### PROPOSICIONES CONDICIONALES
-- Condicional o implicación
-- Bicondicional o equivalencia
+### 🔹🔗 PROPOSICIONES CONDICIONALES
+- ➡️ Condicional o implicación  
+- 🔁 Bicondicional o equivalencia  
 
 ---
 
-- #### TABLAS DE VERDAD
-- Construcción de una Tabla de verdad
-- Clasificación de argumentos: tautología, contradicción y
-contingencia
+### 🔹🧪 TABLAS DE VERDAD
+- 📐 Construcción de tablas de verdad  
+- 🧭 Clasificación de argumentos:  
+  - ✔️ Tautología  
+  - ❌ Contradicción  
+  - ⚪ Contingencia  
 
- ---
+---
 
--📂 **[Actividades AA](AA.md)**
+## 📂📁 Archivos de Actividades
+- 📄📂 [Actividades AA](AA.md)
+- 📄📂 [Actividades ACD1](ACD1.md)
+- 📄📂 [Actividades ACD2](ACD2.md)
 
--📂 **[Actividades ACD1](ACD1.md)**
+---
 
--📂 **[Actividades ACD2](ACD2.md)**
+## 🔙📌 Navegabilidad  
+[⬅️🏠 Volver al Portafolio Principal](MATEMÁTICAS.md)
 
-### Navegavilidad 
-🔙 [Volver al Portafolio Principal](MATEMÁTICAS.md) 
 
