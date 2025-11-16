@@ -1,7 +1,11 @@
 ### 🧩 UNIDAD 1
+
 ---
+
 En este apartado se recopilan todas las actividades realizadas durante el período de trabajo académico, además de un listado de todas las tematicas expuestas durante toda la primera unidad:
+
 ---
+
 #### 📘 ACTVIDADES:
 
 - DEFINICIONES BÁSICAS
