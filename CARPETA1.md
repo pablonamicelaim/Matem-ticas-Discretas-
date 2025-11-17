@@ -1,4 +1,4 @@
-### 📚 UNIDAD 1
+## 📚 UNIDAD 1
 
 ---
 
@@ -6,7 +6,7 @@ En este apartado se recopilan todas las actividades realizadas durante el perío
 
 ---
 
-## 📘📝 ACTIVIDADES
+### 📘📝 ACTIVIDADES
 
 ---
 
