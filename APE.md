@@ -1,16 +1,15 @@
-# 🧠📘 ACTIVIDADES AUTÓNOMAS
+# 🧪📘 APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)
 
 ---
 
-Las actividades autónomas consisten en la **resolución de ejercicios aplicando las Leyes de Proposición y las Reglas de Inferencia**, fortaleciendo el razonamiento lógico y la capacidad de análisis de argumentos formales.
+Las actividades **APE** están orientadas al **desarrollo de habilidades lógicas a través de la práctica**, especialmente mediante la construcción y análisis de **tablas de verdad**, el estudio de **proposiciones simples y compuestas**.
 
 ---
 
-## 🔗📂 Enlace a los Trabajos
-📁 **[Abrir carpeta con actividades en Drive](https://drive.google.com/file/d/1hna3KN-G-oT_wsQd6Y1m8fvsTMKroQbn/view?usp=sharing)**  
+## 📂🔗 Acceso al Trabajo
+### 👉 **[📁 Abrir carpeta en Drive](https://drive.google.com/file/d/1f98Fh2GqLJMwWi0UPwEQ0JrCZetyL3A2/view?usp=sharing)**  
 
 ---
 
-## 🧭 Navegabilidad
-⬅️🏠 [Volver a la Unidad 1](CARPETA1.md)
-
+## 🧭✨ Navegación
+🔙🏠 **[Regresar a Unidad 1](CARPETA1.md)**  
