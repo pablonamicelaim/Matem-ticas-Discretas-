@@ -12,7 +12,9 @@ Durante estas actividades se elaboraron **diapositivas académicas** basadas en 
 ---
 
 ## 🧭 Navegabilidad  
+
 ↩️ **[Regresar a la Unidad 1](CARPETA1.md)**  
+
 🔝 **[Ir al Portafolio Principal](MATEMÁTICAS.md)**
 
 
