@@ -6,7 +6,7 @@ Durante estas actividades se elaboraron **diapositivas académicas** basadas en 
 
 ---
 
-## 🔗📦 Enlace a los Trabajos  
+## 🔗📦 Enlace al Trabajo 
 🗂️ **[Abrir carpeta de materiales en Drive](https://drive.google.com/file/d/19nsx9csztbIpLwUw1W98oDOeoGyKYGYL/view?usp=sharing)**  
 
 ---
@@ -15,6 +15,6 @@ Durante estas actividades se elaboraron **diapositivas académicas** basadas en 
 
 ↩️ **[Regresar a la Unidad 1](CARPETA1.md)**  
 
-🔝 **[Ir al Portafolio Principal](MATEMÁTICAS.md)**
+🔝 **[Ir al Portafolio Principal](MATEMATICAS.md)**
 
 
