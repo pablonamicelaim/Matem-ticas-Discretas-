@@ -1,8 +1,13 @@
 # 🧮✨ Matemáticas Discretas  
+
 ## 📘 Portafolio Digital de Aprendizaje  
+
 ###Pablo Isaias Namicela Maldonado
+
 ###1er Ciclo 
+
 ###Computación
+
 ---
 
 ## 🧩 Unidad 1: Lógica Matemática  
