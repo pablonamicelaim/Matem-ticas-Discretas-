@@ -6,7 +6,7 @@ En estas actividades se desarrollaron **diapositivas formativas** basadas en la 
 
 ---
 
-## 🔗🗃️ Enlace a los Trabajos  
+## 🔗🗃️ Enlace al Trabajo
 🗂️ **[Acceder a la carpeta en Drive](https://drive.google.com/file/d/1fo26FwrvXHJsgb8WlJ-PRf3cpxRtcdRK/view?usp=sharing)**  
 
 ---
@@ -15,4 +15,4 @@ En estas actividades se desarrollaron **diapositivas formativas** basadas en la 
 
 ↩️ **[Regresar a la Unidad 1](CARPETA1.md)**  
 
-🔝 **[Ir al Portafolio Principal](MATEMÁTICAS.md)**
+🔝 **[Ir al Portafolio Principal](MATEMATICAS.md)**
