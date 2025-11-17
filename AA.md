@@ -1,14 +1,16 @@
-#ACTVIDADES AUTONOMAS
+# 🧠📘 ACTIVIDADES AUTÓNOMAS
 
 ---
 
-Ejecución de ejercicios en base a Leyes de proposición y Reglas de Inferencia.
-
----
-### Link de AA
-📂 **[Link de los trabajos en Drive](https://drive.google.com/file/d/1hna3KN-G-oT_wsQd6Y1m8fvsTMKroQbn/view?usp=sharing)**
+Las actividades autónomas consisten en la **resolución de ejercicios aplicando las Leyes de Proposición y las Reglas de Inferencia**, fortaleciendo el razonamiento lógico y la capacidad de análisis de argumentos formales.
 
 ---
 
-### Navegavilidad 
-🔙 [Volver al Portafolio Principal](CARPETA1.md) 
+## 🔗📂 Enlace a los Trabajos
+📁 **[Abrir carpeta con actividades en Drive](https://drive.google.com/file/d/1hna3KN-G-oT_wsQd6Y1m8fvsTMKroQbn/view?usp=sharing)**  
+
+---
+
+## 🧭 Navegabilidad
+⬅️🏠 [Volver a la Unidad 1](CARPETA1.md)
+
