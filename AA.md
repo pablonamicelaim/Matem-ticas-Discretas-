@@ -6,7 +6,7 @@ Las actividades autónomas consisten en la **resolución de ejercicios aplicando
 
 ---
 
-## 🔗📂 Enlace a los Trabajos
+## 🔗📂 Enlace al Trabajo
 📁 **[Abrir carpeta con actividades en Drive](https://drive.google.com/file/d/1hna3KN-G-oT_wsQd6Y1m8fvsTMKroQbn/view?usp=sharing)**  
 
 ---
@@ -15,4 +15,4 @@ Las actividades autónomas consisten en la **resolución de ejercicios aplicando
 
 ⬅️🏠 [Volver a la Unidad 1](CARPETA1.md)
 
-🔝 **[Ir al Portafolio Principal](MATEMÁTICAS.md)**
+🔝 **[Ir al Portafolio Principal](MATEMATICAS.md)**
