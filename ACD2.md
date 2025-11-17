@@ -12,4 +12,7 @@ En estas actividades se desarrollaron **diapositivas formativas** basadas en la 
 ---
 
 ## 🧭 Navegabilidad  
+
 ↩️ **[Regresar a la Unidad 1](CARPETA1.md)**  
+
+🔝 **[Ir al Portafolio Principal](MATEMÁTICAS.md)**
