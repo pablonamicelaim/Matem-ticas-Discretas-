@@ -1,8 +1,8 @@
-# 🧠📘 ACTIVIDADES AUTÓNOMAS
+# 🧠📘 ACTIVIDADES EN CONTACTO CON EL DOCENTE 
 
 ---
 
-Las actividades autónomas consisten en la **resolución de ejercicios aplicando las Leyes de Proposición y las Reglas de Inferencia**, fortaleciendo el razonamiento lógico y la capacidad de análisis de argumentos formales.
+
 
 ---
 
