@@ -2,7 +2,7 @@
 
 ## 📘 Portafolio Digital de Aprendizaje  
 
-### ✨ Pablo Isaias Namicela Maldonado
+## ✨ Pablo Isaias Namicela Maldonado
 
 ### ✨ 1er Ciclo 
 
